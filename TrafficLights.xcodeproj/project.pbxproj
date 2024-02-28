@@ -11,6 +11,7 @@
 		D27591152B8FBA9000664EB9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D27591142B8FBA9000664EB9 /* ContentView.swift */; };
 		D27591172B8FBA9100664EB9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D27591162B8FBA9100664EB9 /* Assets.xcassets */; };
 		D275911A2B8FBA9100664EB9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D27591192B8FBA9100664EB9 /* Preview Assets.xcassets */; };
+		D27591212B8FBD7200664EB9 /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D27591202B8FBD7200664EB9 /* CircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		D27591142B8FBA9000664EB9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D27591162B8FBA9100664EB9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D27591192B8FBA9100664EB9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D27591202B8FBD7200664EB9 /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				D27591122B8FBA9000664EB9 /* TrafficLightsApp.swift */,
 				D27591142B8FBA9000664EB9 /* ContentView.swift */,
+				D27591202B8FBD7200664EB9 /* CircleView.swift */,
 				D27591162B8FBA9100664EB9 /* Assets.xcassets */,
 				D27591182B8FBA9100664EB9 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D27591212B8FBD7200664EB9 /* CircleView.swift in Sources */,
 				D27591152B8FBA9000664EB9 /* ContentView.swift in Sources */,
 				D27591132B8FBA9000664EB9 /* TrafficLightsApp.swift in Sources */,
 			);
